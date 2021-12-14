@@ -5,6 +5,13 @@ Accepted by ACM Multimedia 2021
 
 ![framework](https://github.com/lixiangpengcs/CARE/blob/main/framework.jpg)
 
+## Data
+Contextual-based feature：
+
+Train feature: https://pan.baidu.com/s/1rNX0DTXMIqwGU6_6cboFnw, code: 1s6a
+Val feature: https://pan.baidu.com/s/1iHSNkxeR1Fs2I-1_en4Lig, code: 4jxd
+Test feature：https://pan.baidu.com/s/1OJuLn-NSmrCXUB1fuI50zw， code: 1j4a
+
 ## Citation
 ```
 @inproceedings{li2021exploring,
