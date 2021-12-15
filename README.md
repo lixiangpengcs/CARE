@@ -22,6 +22,7 @@ CCL related data： https://pan.baidu.com/s/13dnIFL51GR8g-13ldxo0Ig, code: tfi1
   title={Exploring Contextual-Aware Representation and Linguistic-Diverse Expression for Visual Dialog},
   author={Li, Xiangpeng and Gao, Lianli and Zhao, Lei and Song, Jingkuan},
   booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={4911--4919},
   year={2021}
 }
 ```
