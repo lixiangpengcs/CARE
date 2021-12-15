@@ -12,7 +12,9 @@ Train feature: https://pan.baidu.com/s/1rNX0DTXMIqwGU6_6cboFnw, code: 1s6a
 
 Val feature: https://pan.baidu.com/s/1iHSNkxeR1Fs2I-1_en4Lig, code: 4jxd
 
-Test feature：https://pan.baidu.com/s/1OJuLn-NSmrCXUB1fuI50zw， code: 1j4a
+Test feature：https://pan.baidu.com/s/1OJuLn-NSmrCXUB1fuI50zw, code: 1j4a
+
+CCL related data： https://pan.baidu.com/s/13dnIFL51GR8g-13ldxo0Ig, code: tfi1
 
 ## Citation
 ```
