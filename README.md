@@ -8,14 +8,9 @@ Accepted by ACM Multimedia 2021
 ## Data
 Contextual-based feature：
 
-Train feature: https://pan.baidu.com/s/1rNX0DTXMIqwGU6_6cboFnw, code: 1s6a
+https://pan.baidu.com/s/1tgx7iVPv94-eTH_5nkMLVg?pwd=8dy7 code: 8dy7 
 
-Val feature: https://pan.baidu.com/s/1iHSNkxeR1Fs2I-1_en4Lig, code: 4jxd
-
-Test feature：https://pan.baidu.com/s/1OJuLn-NSmrCXUB1fuI50zw, code: 1j4a
-
-CCL related data： https://pan.baidu.com/s/13dnIFL51GR8g-13ldxo0Ig, code: tfi1
-
+CCL related data： https://pan.baidu.com/s/1FV3rkP_AOKbuXPoiKdN3BQ?pwd=gj59 code: gj59
 ## Citation
 ```
 @inproceedings{li2021exploring,
